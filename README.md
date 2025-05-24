@@ -168,7 +168,8 @@ endmodule
 
 
 ## Simulation Results
-![2](https://github.com/user-attachments/assets/56b41df3-a13f-469e-9f52-e8ba7466c5aa)
+![Uploading 2.png…]()
+
 
 
 ## Results
